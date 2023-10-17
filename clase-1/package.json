@@ -1,0 +1,32 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Aprendiendo Node-Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghandi18/node-js.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Ghandi H. Aboultaif S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghandi18/node-js/issues"
+  },
+  "homepage": "https://github.com/Ghandi18/node-js#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard",
+    "rules": {"space-before-function-paren":"off"}
+  }
+}
