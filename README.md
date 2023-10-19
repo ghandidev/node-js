@@ -29,3 +29,13 @@ Estudiante: @ghandidev: --> Ghandi H. Aboultaif
       app <---
       Method html <---
       CORS <---
+    ## Clase-4
+      middlewares <---
+      update App ESModules <---
+      MVC Model View Controller <---
+
+
+      // import movies from './movies.json' with { type: 'json' } <-- En el futuro sera asi
+
+      // import fs from 'node:fs'  <-- ESModules
+      // const movies = JSON.parse(fs.readFileSync('./movies.json', 'utf-8'))
